@@ -180,7 +180,7 @@ section{
     width: 100%;
     display: flex;
     align-items: center;
-    background: url('/img/yoga7.jpg') no-repeat ;
+    background: url('../img/yoga7.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 
